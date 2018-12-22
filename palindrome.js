@@ -27,4 +27,4 @@ function palindrome(str) {
   }
 }
 
-palindrome("_eye");
+module.exports = palindrome;

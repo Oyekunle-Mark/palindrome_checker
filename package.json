@@ -1,0 +1,24 @@
+{
+  "name": "palindrom_checker",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "a robust palindrome_checker",
+  "main": "palindrome.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyekunle-mark/palindrome_checker.git"
+  },
+  "author": "oyekunle-mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oyekunle-mark/palindrome_checker/issues"
+  },
+  "homepage": "https://github.com/oyekunle-mark/palindrome_checker#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
